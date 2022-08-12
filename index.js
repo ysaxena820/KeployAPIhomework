@@ -11,7 +11,7 @@ function getApi(){
         let output = `
         <div>
         <div>
-        <p>${data.current.temp_c}</p>
+        <p>${data.current.temp_c} deg C</p>
         </div>
         </div>
         `;
